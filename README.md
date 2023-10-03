@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sudipto Roy Shawon</h1>
 <h3 align="center">Passionate about Coding | AI/ML Enthusiast | Punctual Learner</h3>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawon00s&label=Profile%20views&color=0e75b6&style=flat" alt="shawon00s" /> </p>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shawon00s" alt="shawon00s" /></a> </p>
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C, C++, JAVA**
 
-- 📫 How to reach me **sudipto.roy@gmail.com**
+- 📫 How to reach me **royshaownsudipto@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
