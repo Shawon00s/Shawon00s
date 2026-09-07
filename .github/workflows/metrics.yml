@@ -1,0 +1,53 @@
+# Permanent replacement for the activity graph + trophy cards.
+# These render SVGs INTO your repo, so nothing is fetched from a third-party
+# server when someone opens your profile. They can never break or rate-limit.
+#
+# ── ONE-TIME SETUP ────────────────────────────────────────────────────────────
+# 1. Create a classic PAT: https://github.com/settings/tokens/new
+#    Scope needed: "public_repo"  (nothing else). No expiry, or set a reminder.
+# 2. In Shawon00s/Shawon00s → Settings → Secrets and variables → Actions
+#    → New repository secret → Name: METRICS_TOKEN → Value: your token
+# 3. Commit this file, then Actions tab → "Profile Metrics" → Run workflow
+# 4. Once the SVGs appear in /assets, swap the commented lines in README.md
+# ──────────────────────────────────────────────────────────────────────────────
+
+name: Profile Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # Isometric 3D contribution calendar — replaces the activity graph
+      - name: Contribution calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Shawon00s
+          base: ""
+          config_timezone: Asia/Dhaka
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # Achievement badges — replaces the trophy cabinet
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Shawon00s
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
