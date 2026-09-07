@@ -1,5 +1,5 @@
 <!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:7B2FFF,100:00D9FF&height=200&section=header&text=Sudipto%20Roy%20Shawon&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=CSE%20Undergrad%20@%20NSU%20%E2%80%A2%20Deep%20Learning%20%26%20Full-Stack&descSize=17&descAlignY=54&animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/Shawon00s/Shawon00s/main/assets/header.svg" alt="Sudipto Roy Shawon" />
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <div align="center">
@@ -39,9 +39,6 @@ class Shawon:
 
 - 🖥️ &nbsp;Shipped **[LabDesk](https://github.com/intelligentlab-ai/labdesk)** with IntelligentLab AI — runs a 40-PC lab from one screen
 - 🧠 &nbsp;Currently deep-diving into **Deep Learning, CNNs & Retrieval-Augmented Generation**
-- 🔬 &nbsp;Wrote an **eBPF + LSTM intrusion detector** that watches every syscall on a Linux box
-- 🚗 &nbsp;Made a **self-driving car** that avoids walls, spots fire, and texts you on Telegram
-- 🎬 &nbsp;Shipped **SceneIt** — a React Native movie discovery app
 - 🏫 &nbsp;Maintaining **NSU CSE lab archives** so juniors don't suffer like I did
 - 📫 &nbsp;Reach me at **royshawonsudipto@gmail.com**
 
@@ -118,7 +115,7 @@ class Shawon:
 <img src="https://img.shields.io/badge/shipped_with-IntelligentLab_AI-0D1117?style=flat-square&logoColor=00D9FF" alt="Org" />
 <img src="https://img.shields.io/badge/platform-Windows_x64-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Platform" />
 
-**Run an entire computer lab from one screen — self-hosted, no cloud, no per-seat license.** Shipped publicly with **[IntelligentLab AI](https://github.com/intelligentlab-ai)**; signed installers are up on the releases page and it's already benchmarked against commercial tools like Faronics Insight and Classroom Spy.
+**Run an entire computer lab from one screen — self-hosted, no cloud, no per-seat license.** Shipped publicly with **[IntelligentLab AI](https://github.com/intelligentlab-ai)**; installers are up on the releases page and it's already benchmarked against commercial tools like Faronics Insight and Classroom Spy.
 
 |  |  |
 |---|---|
@@ -138,7 +135,7 @@ class Shawon:
 <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
 <img src="https://img.shields.io/badge/electron--builder-000000?style=flat-square&logo=windows&logoColor=white" />
 
-<sub>🤖 A separate **AI proctor** layer sits on top of this suite — students emit 10-second telemetry packets (window titles, dwell times, clipboard <b>hashes</b>, never screenshots), filtered through a three-tier funnel that resolves most cases locally and escalates only ambiguous ones to an LLM, so the teacher reads a ranked alert feed instead of watching 40 tiles. Not part of the public release — <a href="mailto:royshawonsudipto@gmail.com">ask me</a> for a walkthrough.</sub>
+<sub>🤖 A separate <b>AI proctor</b> layer sits on top of this suite — students emit 10-second telemetry packets (window titles, dwell times, clipboard <b>hashes</b>, never screenshots), filtered through a three-tier funnel that resolves most cases locally and escalates only ambiguous ones to an LLM, so the teacher reads a ranked alert feed instead of watching 40 tiles. Not part of the public release — <a href="mailto:royshawonsudipto@gmail.com">ask me</a> for a walkthrough.</sub>
 
 </td></tr>
 </table>
@@ -215,8 +212,7 @@ Ask questions, get answers straight out of your documents — built while learni
 
 ### 📊 &nbsp;GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shawon00s&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=C9D1D9&include_all_commits=true" alt="GitHub Stats" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shawon00s&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
+<img width="70%" src="https://raw.githubusercontent.com/Shawon00s/Shawon00s/main/assets/metrics.overview.svg" alt="Overview and Languages" />
 
 <br/>
 
@@ -230,13 +226,7 @@ Ask questions, get answers straight out of your documents — built while learni
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shawon00s&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-
-<!-- BULLETPROOF ALTERNATIVE: run .github/workflows/metrics.yml, then delete the line
-     above and uncomment this one. It reads an SVG committed to your own repo, so it
-     can never be rate-limited:
 <img width="70%" src="https://raw.githubusercontent.com/Shawon00s/Shawon00s/main/assets/metrics.calendar.svg" alt="Contribution Calendar" />
--->
 
 </div>
 
@@ -247,14 +237,7 @@ Ask questions, get answers straight out of your documents — built while learni
 
 ### 🏆 &nbsp;Trophy Cabinet
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Shawon00s&theme=algolia&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-</a>
-
-<!-- BULLETPROOF ALTERNATIVE: run .github/workflows/metrics.yml, then delete the block
-     above and uncomment this one:
 <img width="70%" src="https://raw.githubusercontent.com/Shawon00s/Shawon00s/main/assets/metrics.achievements.svg" alt="Achievements" />
--->
 
 </div>
 
@@ -278,12 +261,8 @@ Ask questions, get answers straight out of your documents — built while learni
 <!-- ═══════════════════ QUOTE ═══════════════════ -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-
-<br/><br/>
-
 <b>⭐ If any of my repos helped you, a star goes a long way ⭐</b>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,55:7B2FFF,100:0D1117&height=130&section=footer" />
+<img width="100%" src="https://raw.githubusercontent.com/Shawon00s/Shawon00s/main/assets/footer.svg" alt="" />
