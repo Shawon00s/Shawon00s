@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sudipto Roy Shawon</h1>
-<img align="right"alt="Coding"width="400"src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<h3 align="center">Competitive Programmer | CSE Student | Tech Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawon00s&label=Profile%20views&color=0e75b6&style=flat" alt="shawon00s" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🔭 I’m focused on improving my problem-solving and software development skills
+
+- 🌱 I’m currently exploring **Deep Learning** and **Backend Development**
+
+- 💬 Ask me about **C, C++, Java, and Competitive Programming**
 
 - 📫 How to reach me **royshawonsudipto@gmail.com**
 
